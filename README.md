@@ -5,7 +5,7 @@ This is a code for ear segmentation/detection assignment, which was a part of Im
 The assignment was implemented on AWE dataset [[1]](#1). I compared Viola-Jones detector with Mask R-CNN using ResNet50 and MobileNetV2 as backbones. The starting point for my CNN was [[2]](#2). I also used different image preprocessing techniques.
 
 I obtained the following results:
-![](results.png)
+![](results.PNG)
 
 ## References
 
